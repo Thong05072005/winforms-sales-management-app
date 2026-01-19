@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\DTO\\CTHDB_DTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\CTHDB_DTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_CTHDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GUI\\frm_CTHDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_NhanVien.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GUI\\frm_NhanVien.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_KhachHang.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GUI\\frm_KhachHang.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_CTHDB.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GUI\\frm_CTHDB.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\gui\\giadienchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\giadienchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_SanPham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GUI\\frm_SanPham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\gui\\frm_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\frm_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GUI\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\gui\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_KhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GUI\\frm_KhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\gui\\frm_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\frm_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_DN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GUI\\frm_DN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\gui\\frm_dn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\frm_dn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\DoanhThucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GUI\\DoanhThucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\gui\\doanhthucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\doanhthucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_NhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GUI\\frm_NhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\gui\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\gui\\frm_cthdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\frm_cthdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dsCTHDB.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dsCTHDB.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dsCTHDB.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\Report\\frm_InCTHDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Report\\frm_InCTHDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\Report\\CTHDB_REPORT.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Report\\CTHDB_REPORT.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\report\\frm_incthdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:report\\frm_incthdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dsCTHDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dsCTHDB.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CTHDB_DTO.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\DTO\\CTHDB_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CTHDB_DTO.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\DTO\\CTHDB_DTO.cs",
+              "RelativeToolTip": "DTO\\CTHDB_DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:19:59.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_NhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_NhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_NhanVien.Designer.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_NhanVien.Designer.cs",
+              "RelativeToolTip": "GUI\\frm_NhanVien.Designer.cs",
+              "ViewState": "AgIAAPsBAAAAAAAAAAAjwAECAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:39:00.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_KhachHang.Designer.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_KhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_KhachHang.Designer.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_KhachHang.Designer.cs",
+              "RelativeToolTip": "GUI\\frm_KhachHang.Designer.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAjwMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:38:52.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_CTHDB.Designer.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_CTHDB.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_CTHDB.Designer.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_CTHDB.Designer.cs",
+              "RelativeToolTip": "GUI\\frm_CTHDB.Designer.cs",
+              "ViewState": "AgIAAAYCAAAAAAAAAAAjwBACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:38:46.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:38:36.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GiaDienChinh.cs [Design]",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\GiaDienChinh.cs",
+              "RelativeDocumentMoniker": "GUI\\GiaDienChinh.cs",
+              "ToolTip": "D:\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\GiaDienChinh.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\GiaDienChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:35:27.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_SanPham.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_SanPham.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_SanPham.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_SanPham.cs",
+              "RelativeToolTip": "GUI\\frm_SanPham.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAArwDUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:35:13.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_SanPham.cs [Design]",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_SanPham.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_SanPham.cs",
+              "ToolTip": "D:\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_SanPham.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_SanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:35:12.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_main.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_main.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_main.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_main.cs",
+              "RelativeToolTip": "GUI\\frm_main.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwE0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:34:58.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_main.cs [Design]",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_main.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_main.cs",
+              "ToolTip": "D:\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_main.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:34:57.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frm_KhachHang.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_KhachHang.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_KhachHang.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_KhachHang.cs",
+              "RelativeToolTip": "GUI\\frm_KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:34:52.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frm_KhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_KhachHang.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_KhachHang.cs",
+              "ToolTip": "D:\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_KhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:34:51.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frm_DN.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_DN.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_DN.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_DN.cs",
+              "RelativeToolTip": "GUI\\frm_DN.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwDAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:34:46.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frm_DN.cs [Design]",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_DN.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_DN.cs",
+              "ToolTip": "D:\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_DN.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_DN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:34:44.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoanhThucs.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\DoanhThucs.cs",
+              "RelativeDocumentMoniker": "GUI\\DoanhThucs.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\DoanhThucs.cs",
+              "RelativeToolTip": "GUI\\DoanhThucs.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwIMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:34:37.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoanhThucs.cs [Design]",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\DoanhThucs.cs",
+              "RelativeDocumentMoniker": "GUI\\DoanhThucs.cs",
+              "ToolTip": "D:\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\DoanhThucs.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\DoanhThucs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:34:36.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frm_NhanVien.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_NhanVien.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_NhanVien.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_NhanVien.cs",
+              "RelativeToolTip": "GUI\\frm_NhanVien.cs",
+              "ViewState": "AgIAAEMBAAAAAAAAAIAwwEcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:17:45.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frm_NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_NhanVien.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_NhanVien.cs",
+              "ToolTip": "D:\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_NhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:17:44.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_CTHDB.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_CTHDB.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_CTHDB.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_CTHDB.cs",
+              "RelativeToolTip": "GUI\\frm_CTHDB.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAowPoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:10:13.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frm_CTHDB.cs [Design]",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_CTHDB.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_CTHDB.cs",
+              "ToolTip": "D:\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_CTHDB.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\Winform\\DoAnTheoMoHinh3Lop\\GUI\\frm_CTHDB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:09:50.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dsCTHDB.xss",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.xss",
+              "RelativeDocumentMoniker": "dsCTHDB.xss",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.xss",
+              "RelativeToolTip": "dsCTHDB.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANwSURBVDhPhZRPSytnFMafyUwqDQnEqMSKmXpjx7RIQhO4WhRisd1F10VcGcldtCIY0H4BQbsRP4Gu3DQKVtzUTcCQYFSqjVjQufHepBFM7sTgzCRjJzOZLoppJqn2B\u002B/iPec5z3l5/wH/w\u002BTkJF0ul78vl8sxURRLoijWmsZ7URQ3Y7FYAJqmEc0GjYRCodHZ2dnvLBbLRDqd7jg\u002BPv64UChQjRq32/2X2\u002B0Wurq63nIc9/OzhqFQ6KOpqakfent7566url91dXYhn89DLIs6XbfdDoIgoKhKZXR09FrXrZFAIGD0eDy92Wz2VaFQgM/rg8vlapYBAP64vETmbdYE4EtDc/KJXC5XK5VKtWpVQbHIIZ8voFQqged53eA4Dh\u002B4D\u002BB5HgDw7AoXFxclnuerQ0NDiEajYK9ZuFyfw9pu1enev3uHdDpdj\u002Bv2cHx8/NtwOPzj09zpdPZbrda\u002BVCqFjY0NqKoKijI2lkCSKpAkCU6nE2tra/oVdnd3f\u002BLz\u002Bb7Z39\u002BHoijIZrOgaRoejwe1Wg339/eN8v\u002BkZQ8FQcDu7i4ikQgikQgSiUSz5EVaDA0GA2w2GyiKgslkgtlsbpa8SIuh3W7HysoKBgYGEAgEEAwGmyUvQgHA8vLyT/39/Z85HA6aJEnYbDYYjUaYTCZYLBbIsoz5\u002BXnIsoxEIoFoNKozIUkSRuM/h0UBgN/v/5ogiNcsy4JlWQBAPp9HKpWCpmn1wpGREdA0XZ8DQHt7O2iahtfrLQO4JADg8PAweXJy8joej7cUAEC1WgXLslhaWoIsyzg4OKjnenp6HgcHB\u002B9pmr7KZDIRymw2WwwGgwEAvF4vwuEwAKBSqVRIkiTb2traisViPT42Nga/369omiZJkqTVarUcgMPz8/NfJiYmfqVisVjS4XB8mkwm610BYGFhYW54ePirYDD4RpcAoGnabw8PD3MzMzPlTCYjA6g8Pj7yAEC5XK4vtra2tLOzM6iqis3NTUxPTyOXy/3JMMwAy7LY3t6GIAjY29uDoijo6OgQV1dXfz86OqoKgqBrZgCA09NT3N7e4u7uDslkEqqq1gUcxyEej0OWZVxcXODm5gaFQkHb2dlpMcOTocPhAMMwYBgGfX19IIh/n7jZbK7nGIZBZ2dnY30LFACEw\u002BFnP1qPx0Osr6/rYs33sJG/AYSnjqm2fnOXAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-17T06:32:27.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dsCTHDB.xsc",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.xsc",
+              "RelativeDocumentMoniker": "dsCTHDB.xsc",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.xsc",
+              "RelativeToolTip": "dsCTHDB.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2025-04-17T06:32:26.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dsCTHDB.Designer.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.Designer.cs",
+              "RelativeDocumentMoniker": "dsCTHDB.Designer.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.Designer.cs",
+              "RelativeToolTip": "dsCTHDB.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:32:25.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frm_InCTHDB.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\Report\\frm_InCTHDB.cs",
+              "RelativeDocumentMoniker": "Report\\frm_InCTHDB.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\Report\\frm_InCTHDB.cs",
+              "RelativeToolTip": "Report\\frm_InCTHDB.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:28:42.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CTHDB_REPORT.rdlc",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\Report\\CTHDB_REPORT.rdlc",
+              "RelativeDocumentMoniker": "Report\\CTHDB_REPORT.rdlc",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\Report\\CTHDB_REPORT.rdlc",
+              "RelativeToolTip": "Report\\CTHDB_REPORT.rdlc",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-04-17T06:26:03.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frm_InCTHDB.cs [Design]",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\Report\\frm_InCTHDB.cs",
+              "RelativeDocumentMoniker": "Report\\frm_InCTHDB.cs",
+              "ToolTip": "D:\\C#\\Winform\\DoAnTheoMoHinh3Lop\\Report\\frm_InCTHDB.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\Winform\\DoAnTheoMoHinh3Lop\\Report\\frm_InCTHDB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:26:01.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dsCTHDB.cs",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.cs",
+              "RelativeDocumentMoniker": "dsCTHDB.cs",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.cs",
+              "RelativeToolTip": "dsCTHDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:23:43.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dsCTHDB.xsd",
+              "DocumentMoniker": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.xsd",
+              "RelativeDocumentMoniker": "dsCTHDB.xsd",
+              "ToolTip": "D:\\MonHoc\\Nam2-hk4\\C#\\C#\\Winform\\DoAnTheoMoHinh3Lop\\dsCTHDB.xsd",
+              "RelativeToolTip": "dsCTHDB.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-04-17T06:21:15.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
